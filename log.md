@@ -2,7 +2,7 @@
 
 ### Day 0: November 18, 2018 
 
-**Today's Progress**: Converted c++ code to python, that was part of my educational program but closely related to my main goal
+**Today's Progress**: Converted c++ code to python today.
 
 **Thoughts:** I struggled with IdentationError. Tabs are my best friends from now. This lab work is not finished yet. Will try to finish and test it out tomorrow completely.
 
