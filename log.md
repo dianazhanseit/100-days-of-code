@@ -15,3 +15,11 @@
 **Thoughts:** Have issues with testing matrix operations
 
 **Link to work:** [Rational](https://github.com/dianazhanseit/rational)
+
+### Day 2: November 20, 2018 
+
+**Today's Progress**: Tested and fixed bags carefully, matrix works now.
+
+**Thoughts:** Now I have another issues..
+
+**Link to work:** [Rational](https://github.com/dianazhanseit/rational)
