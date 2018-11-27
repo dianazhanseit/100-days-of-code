@@ -64,7 +64,7 @@
 
 **Link to work:** 
 
-### Day82: November 27, 2018 
+### Day 8: November 27, 2018 
 
 **Today's Progress**: Look through Java EE for my final and start Python for neural networks
 
