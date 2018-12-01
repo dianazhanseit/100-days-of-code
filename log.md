@@ -72,3 +72,10 @@
 
 **Link to work:** 
 
+### Day [9:12] : November 28, 2018 - December 1, 2018
+
+**Today's Progress**: Smoothly turning my 100DaysofCode to 100DaysOfMLCoding.
+
+**Thoughts:** It appeared that it needs strong math knowledge, so after finals i looked through linear algebra, calculus and probability. 
+
+**Link to work:** 
