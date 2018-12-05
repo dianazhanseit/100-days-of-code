@@ -79,3 +79,10 @@
 **Thoughts:** It appeared that it needs strong math knowledge, so after finals i looked through linear algebra, calculus and probability. 
 
 **Link to work:** 
+### Day [13:16]: December 2 - December5. 2018
+**Today's Progress**: Solved 2 problem sets(ps0 and ps1) of MIT open course's assignment
+
+**Thoughts:** Bugs are my friends
+
+**Link to work:** https://github.com/dianazhanseit/python_practice 
+
