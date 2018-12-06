@@ -6,7 +6,7 @@
 
 **Thoughts:** Python is really incredible language! And it is better to learn in prctice from the beginning. Do not waste time as me reading documentation first.
 
-**Link to work:** dianazhanseit/python_practice
+**Link to work:** [Problem sets](https://github.com/dianazhanseit/python_practice)
 
 ### Day [13:16]: December 2 - December5. 2018
 **Today's Progress**: Solved 2 problem sets(ps0 and ps1) of MIT open course's assignment
