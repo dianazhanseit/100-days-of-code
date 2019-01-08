@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 08, 2019 
+
+**Today's Progress**: Solved 3rd problem set of MIT Open Course assignments
+
+**Thoughts:** Nice)
+
+**Link to work:** [Problem set 2](https://github.com/dianazhanseit/python_ps2)
+
+
 ### Day 14: December 06, 2018 
 
 **Today's Progress**: Have partially solved 3rd problem set of MIT Open Course assignments
@@ -8,7 +17,7 @@
 
 **Link to work:** [Problem sets](https://github.com/dianazhanseit/python_practice)
 
-### Day [13:16]: December 2 - December5. 2018
+### Day [13]: December 2 - December5. 2018
 **Today's Progress**: Solved 2 problem sets(ps0 and ps1) of MIT open course's assignment
 
 **Thoughts:** Bugs are my friends
