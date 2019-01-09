@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 09, 2019 
+
+**Today's Progress**: Yeah! I made my first data science based script, that's gender prediction based on height, weight and shoe size. Thanks to tutorials and python libraries
+
+**Thoughts:** Need to know about libraries and dependencies a lot
+
+**Link to work:** [Gender prediction](https://github.com/dianazhanseit/decision-making-tree)
+
 ### Day 15: January 08, 2019 
 
 **Today's Progress**: Solved 3rd problem set of MIT Open Course assignments
