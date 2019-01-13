@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 17: January 10, 2019 
+
+**Today's Progress**: Python Mit open course's 3rd assignment
+
+**Thoughts:** To be continued
+
+**Link to work:** [Ps3]
+
 
 ### Day 16: January 09, 2019 
 
